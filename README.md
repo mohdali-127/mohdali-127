@@ -1,12 +1,8 @@
-# 🚀 Mohd Ali Ansari  
-**Developer | Creator | Visionary**
+# 🚀 Mohd Ali
 
-Crafting sleek web & mobile experiences with clean code and bold ideas.  
+**Developer • Creator • Lifelong Learner**
 
-💡 Turning concepts into code  
-🛠️ Full-stack builds & pixel-perfect designs  
-🌐 Always online, always building
+Crafting cool stuff with clean code and bold ideas.  
+Always learning, always building.  
 
-> “Code it till you own it.”
-
-Let’s build the future — one line at a time ⚡
+> “Code it till you own it.” ⚡
