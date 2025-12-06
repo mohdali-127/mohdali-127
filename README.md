@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Mohd Ali
 Developer • Creator • Lifelong Learner<br><br>Crafting cool stuff with clean code and bold ideas.<br>Always learning, always building.<br><br>“Code it till you own it.” ⚡
 
 
